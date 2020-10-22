@@ -1,7 +1,13 @@
 #!/bin/bash -x
-a=14
+
+a=13
+a=15
+
 #b=13
 sum=$($a+$b)
 echo "$sum"
 #echo $sum
-echo  "add"
+
+echo  "a"
+echo "addition num"
+

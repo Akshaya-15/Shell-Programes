@@ -7,7 +7,6 @@ a=15
 sum=$($a+$b)
 echo "$sum"
 #echo $sum
-
-echo  "a"
 echo "addition num"
+echo "bridgelabz"
 
